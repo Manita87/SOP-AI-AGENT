@@ -371,3 +371,5 @@ This is a **real-world, production-ready AI system architecture** used in modern
 ---
 
 **Build hard. Ship fast. Scale smart. 🚀**
+* Contributors 1. Param Shelke
+*              2. Snehal Satre
